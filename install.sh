@@ -1,8 +1,8 @@
 sudo pacman -Sy
     
 sudo pacman -Sy i3 vim git nitrogen dmenu polybar ranger alacritty picom
-mkdir ~/Download/Firefox   
-mkdir ~/Download/.GitClone   
+mkdir ~/Downloads/Firefox   
+mkdir ~/Downloads/.GitClone   
 
 #config for nitrogen        
 mkdir ~/Pictures/.Wallpapers/
